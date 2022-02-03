@@ -10,12 +10,12 @@ session_start();
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Web POS | UofPoints</title>
+  <title>Web POS</title>
 
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
 
-  <link rel="icon" href="vistas/img/plantilla/uop.jpg">
+  <link rel="icon" href="vistas/img/plantilla/salud1.jpg">
 
 <!--=============================================>>>>>
 PLUGINS DE CSS
